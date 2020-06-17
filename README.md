@@ -16,7 +16,7 @@
 | Sexta-feira    | 16:00             | 22:00              |
 | Sabado         | 14:00             | 22:00              |
 
-## :rocket: Calendário de estufos
+## :rocket: Calendário de estudos
 
 ![](https://i.imgur.com/lMM5LBw.png)
 
